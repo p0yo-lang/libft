@@ -9,7 +9,7 @@ FILENAME=	ft_atoi ft_bzero ft_calloc ft_isalnum ft_isalpha ft_isascii \
 			ft_striteri ft_strjoin ft_strlcat ft_strlcpy ft_strlen \
 			ft_strmapi ft_strncmp ft_strnstr ft_strrchr ft_strtrim \
 			ft_substr ft_tolower ft_toupper print_char print_hex \
-			print_nbr print_ptr print_str utils
+			print_nbr print_ptr print_str utils get_next_line
 
 SOURCEDIR = src/
 OBJDIR = obj/
